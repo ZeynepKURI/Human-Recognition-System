@@ -1,32 +1,39 @@
 # Human-Recognition-System
-Human Recognition System is a real-time system that recognizes humans without requiring image uploads. The system processes live images directly from the browser's camera feed and performs real-time human recognition. It is built using HTML, CSS, and JavaScript and utilizes image processing algorithms to identify and analyze people in the video stream. It runs directly in the browser with a user-friendly interface.
+Got it! Here's the full `README.md` content written entirely in English:
 
-Setup Instructions
-Clone the Repository:
+```md
+# Human Recognition System
 
-bash
-Kodu kopyala
-git clone https://github.com/your-username/human-recognition-system.git
-Navigate to Project Directory:
+## Project Description
+**Human Recognition System** is a real-time system that recognizes humans directly through the browser's camera feed without requiring image uploads. It is built using **HTML**, **CSS**, and **JavaScript**, utilizing image processing algorithms to detect and analyze humans in real-time. The system provides a user-friendly interface and operates entirely within the browser.
 
-bash
-Kodu kopyala
-cd human-recognition-system
-Install Dependencies:
-Since the project is built with HTML, CSS, and JavaScript, no additional dependencies are required.
+## Setup Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/human-recognition-system.git
+   ```
 
-Run:
-Open the project in a browser, allow camera access, and the system will start real-time recognition.
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd human-recognition-system
+   ```
 
-Usage
-Once the project is opened in a browser, the system will start using the camera automatically.
-Human recognition will occur in real-time from the live video feed.
-Technologies Used
-HTML5
-CSS3
-JavaScript
+3. **Install Dependencies**:
+   Since the project uses pure **HTML**, **CSS**, and **JavaScript**, no additional dependencies are required.
 
+4. **Run**:
+   Open the project in a browser, allow camera access, and the system will begin performing real-time recognition.
 
+## Usage
+1. Once the project is opened in the browser, the system will automatically start using the camera.
+2. Human recognition will occur in real-time from the live video feed provided by the camera.
 
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+```
+
+This version is entirely in English, ready to be used as a `README.md` file for your project. Let me know if you'd like further modifications!
 
 
