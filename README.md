@@ -32,8 +32,5 @@ Got it! Here's the full `README.md` content written entirely in English:
 - HTML5
 - CSS3
 - JavaScript
-```
-
-This version is entirely in English, ready to be used as a `README.md` file for your project. Let me know if you'd like further modifications!
 
 
